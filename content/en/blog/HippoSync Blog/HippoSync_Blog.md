@@ -106,6 +106,8 @@ That's it. You're live.
 
 # The Chat Interface
 
+![Alt text](overview.png)
+
 ## Switch AI Models Without Losing Context
 
 ### How It Works
@@ -229,6 +231,8 @@ MemMachine provides both Sarah's push notification requirements and
 Mike's implementation approach.
 
 Gemini designs UI that matches the technical architecture.
+
+![Alt text](Project_chat.png)
 
 ------------------------------------------------------------------------
 
