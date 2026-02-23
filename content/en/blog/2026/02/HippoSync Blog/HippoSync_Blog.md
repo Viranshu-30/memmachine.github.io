@@ -113,7 +113,7 @@ That's it. You're live.
 
 ![Alt text](overview.png)
 
-![Alt text](overview.png)
+
 
 ## Switch AI Models Without Losing Context
 
