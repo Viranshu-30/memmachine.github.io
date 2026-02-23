@@ -1,8 +1,13 @@
-# HippoSync: Switch Models. Share Context. Build Together.
+---
+title: "HippoSync: Switch Models. Share Context. Build Together."
+date: 2026-02-23T09:00:00-08:00
+featured_image: "featured_image.png"
+tags: ["AI Agent", "AI Memory", "Generative AI", "LLM", "Agent Memory", "featured", "Integration", "Developer Tool"]
+author: "Viranshu Paruparla"
+description: "Switch between GPT, Claude, and Gemini without losing context. HippoSync uses MemMachine to provide persistent, shared AI memory for seamless collaboration."
+---
 
 
-
-------------------------------------------------------------------------
 
 ## The Moment Everything Clicked
 
@@ -31,7 +36,7 @@ Not because of a larger context window, but because your past
 conversations are stored, indexed, and reused automatically wherever
 relevant.
 
-------------------------------------------------------------------------
+
 
 # HippoSync + MemMachine
 
@@ -52,7 +57,7 @@ This architecture enables:
 -   Real collaboration across different AI models
 -   Continuous context without losing continuity
 
-------------------------------------------------------------------------
+
 
 # How MemMachine Works
 
@@ -85,7 +90,7 @@ This architecture enables:
     -   Shared with a specific team
     -   Available organization-wide
 
-------------------------------------------------------------------------
+
 
 # The HippoSync User Experience
 
@@ -102,9 +107,11 @@ stores them in plaintext, and you pay providers directly for usage.
 
 That's it. You're live.
 
-------------------------------------------------------------------------
+
 
 # The Chat Interface
+
+![Alt text](overview.png)
 
 ![Alt text](overview.png)
 
@@ -123,7 +130,7 @@ earlier, even if those discussions happened with a different AI model.
 There's no need to restate your setup or repeat past decisions. Context
 carries forward automatically.
 
-------------------------------------------------------------------------
+
 
 ## Real Workflow
 
@@ -146,7 +153,6 @@ Switch to Gemini for documentation. MemMachine provides both the code
 and security analysis.
 Gemini writes comprehensive documentation incorporating everything.
 
-------------------------------------------------------------------------
 
 ## Why This Matters
 
@@ -161,7 +167,7 @@ Each model builds on shared context from previous conversations.
 There's no manual context transfer and no wasted time re-explaining
 decisions.
 
-------------------------------------------------------------------------
+
 
 # Team Projects with Shared Memory
 
@@ -176,7 +182,7 @@ Traditional AI chat looks like this:
 Three separate conversations.
 Zero shared context.
 
-------------------------------------------------------------------------
+
 
 ## The HippoSync Solution
 
@@ -201,7 +207,7 @@ automatically incorporate that technical reality.
 Instead of isolated chats, the entire team operates from a single,
 continuously evolving source of truth.
 
-------------------------------------------------------------------------
+
 
 ## Team Example
 
@@ -234,8 +240,6 @@ Gemini designs UI that matches the technical architecture.
 
 ![Alt text](Project_chat.png)
 
-------------------------------------------------------------------------
-
 # Project Advantages
 
 -   **Cross-Model Collaboration**
@@ -260,7 +264,6 @@ Gemini designs UI that matches the technical architecture.
     Decisions and insights accumulate over time instead of disappearing
     after each chat.
 
-------------------------------------------------------------------------
 
 # [Contact Us](viranshu.paruparla@gmail.com "Contact Us") to Get Started
 
