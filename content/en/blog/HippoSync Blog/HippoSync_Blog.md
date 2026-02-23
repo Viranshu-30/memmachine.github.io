@@ -1,6 +1,6 @@
 # HippoSync: Switch Models. Share Context. Build Together.
 
-**New version. Technical. Focused on user experience.**
+
 
 ------------------------------------------------------------------------
 
