@@ -38,7 +38,7 @@ relevant.
 
 
 
-# HippoSync + MemMachine
+## HippoSync + MemMachine
 
 HippoSync is powered by **MemMachine**, which provides a persistent
 memory layer for AI applications. It functions as the brain of the
@@ -52,16 +52,16 @@ They're stored in durable context that carries forward.
 
 This architecture enables:
 
--   Seamless model switching
+-   Seamless model/vendor switching
 -   Long-term memory
 -   Real collaboration across different AI models
 -   Continuous context without losing continuity
 
 
 
-# How MemMachine Works
+## How MemMachine Works
 
-## MemMachine Architecture
+### MemMachine Architecture
 
 1.  **Episodic Memory Storage**
     Every message is stored with full context and timestamped
@@ -92,9 +92,9 @@ This architecture enables:
 
 
 
-# The HippoSync User Experience
+## The HippoSync User Experience
 
-## Getting Started Feels Instant
+### Getting Started Feels Instant
 
 1.  Sign up with your email.
 2.  In Settings, add the API keys for the models you want to use:
@@ -109,7 +109,7 @@ That's it. You're live.
 
 
 
-# The Chat Interface
+## The Chat Interface
 
 ![Alt text](overview.png)
 
@@ -169,9 +169,9 @@ decisions.
 
 
 
-# Team Projects with Shared Memory
+## Team Projects with Shared Memory
 
-## The Team Problem
+### The Team Problem
 
 Traditional AI chat looks like this:
 
@@ -240,7 +240,7 @@ Gemini designs UI that matches the technical architecture.
 
 ![Alt text](Project_chat.png)
 
-# Project Advantages
+## Project Advantages
 
 -   **Cross-Model Collaboration**
     Team members use their preferred AI models while sharing the same
@@ -265,7 +265,7 @@ Gemini designs UI that matches the technical architecture.
     after each chat.
 
 
-# [Contact Us](viranshu.paruparla@gmail.com "Contact Us") to Get Started
+## [Contact Us](viranshu.paruparla@gmail.com "Contact Us") to Get Started
 
 **Many models. Many sessions. Many users. One context.**
 
