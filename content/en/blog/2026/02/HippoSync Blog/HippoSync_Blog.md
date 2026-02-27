@@ -265,7 +265,7 @@ Gemini designs UI that matches the technical architecture.
     after each chat.
 
 
-## [Contact Us](viranshu.paruparla@gmail.com "Contact Us") to Get Started
+## [Click Here](https://github.com/Viranshu-30/HippoSync "Click Here") to Get Started
 
 **Many models. Many sessions. Many users. One context.**
 
